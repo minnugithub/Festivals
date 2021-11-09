@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+header {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(to right, #811322, #da5518);
+}
+
+h1 {
+  color: rgb(227, 227, 238);
+  text-align: center;
+  font-style: normal;
+}
+
+#menu {
+  background-color: rgb(250, 250, 250);
+  color: rgba(252, 140, 88, 0.974);
+  text-align: center;
+}
+#main {
+  width: 100%;
+  height: 70%;
+  border-radius: px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+#copy {
+  background-color: rgba(208, 22, 22, 0.664);
+  text-align: center;
+}

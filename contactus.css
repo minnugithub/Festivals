@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+header {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(to right, #811322, #da5518);
+}
+
+h1 {
+  color: rgb(227, 227, 238);
+  text-align: center;
+  font-style: normal;
+}
+
+#menu {
+  background-color: rgb(250, 250, 250);
+  color: rgba(252, 140, 88, 0.974);
+  text-align: center;
+}
+.container {
+  width: 800px;
+  height: 600px;
+  background-color: rgb(216, 186, 161);
+  margin: 50px auto;
+  box-sizing: border-box;
+  padding: 40px;
+  box-shadow: lightgrey;
+}
+.container p {
+  text-align: center;
+  color: rgb(48, 44, 44);
+}
+.input {
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  margin-bottom: 25px;
+  border: 2px;
+  font-size: 25px;
+}
+#copy {
+  background-color: rgba(208, 22, 22, 0.664);
+  text-align: center;
+}
